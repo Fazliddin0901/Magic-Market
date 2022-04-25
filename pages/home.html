@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles/home.css" />
+    <title>Home</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        background-color: #8bc6ec;
+        background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+      }
+      .header {
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+        justify-content: space-between;
+      }
+
+      .logo {
+        font-size: 40px;
+        font-family: cursive;
+        color: rgb(177, 80, 0);
+        /* word-wrap: break-word; */
+      }
+      .ulanish {
+        display: flex;
+        gap: 30px;
+      }
+      .sign {
+        width: 120px;
+        height: 40px;
+        border-radius: 20px;
+        border: none;
+        background-color: rgb(177, 80, 0);
+        color: white;
+        font-size: 20px;
+        font-family: cursive;
+      }
+      .img {
+        margin-left: 595px;
+        width: 250px;
+      }
+      .ananas:hover {
+        transform: scaleX(-1);
+      }
+      .container {
+        width: 80%;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-content: space-between;
+        gap: 50px;
+        margin-left: 170px;
+      }
+      .cont {
+        width: 300px;
+        margin-top: 30px;
+        border-radius: 10px;
+      }
+      .ananas {
+        width: 300px;
+        border-radius: 10px 10px 0 0;
+        margin-bottom: 10px;
+        height: 250px;
+      }
+      .cost {
+        font-size: 20px;
+        padding: 5px;
+        color: white;
+      }
+      .buy {
+        margin-left: 75px;
+        width: 150px;
+        height: 40px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: rgb(177, 80, 0);
+        color: white;
+        font-size: 20px;
+        border-radius: 100px;
+        border: none;
+        font-family: cursive;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1 class="logo">Magic Market</h1>
+      <div class="ulanish">
+        <a href="#"> <button class="sign">Sign In</button></a>
+        <a href="#"> <button class="sign">Sign Up</button></a>
+      </div>
+    </div>
+    <img
+      class="img"
+      src="https://islandquestlanzarote.com/wp-content/uploads/2021/06/Magic-Market-300x300.png"
+      alt="#"
+    />
+
+    <div class="container">{cardss}</div>
+  </body>
+</html>

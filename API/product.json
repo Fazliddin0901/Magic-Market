@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "productName": "Apples",
+    "image": "https://c.pxhere.com/photos/38/25/apple_blur_close_up_delicious_eat_focus_fresh_freshness-1480955.jpg!d",
+    "nutrients": "Vitamin A,Temir moddasi",
+    "price": "6.50",
+    "organic": true,
+    "buyed": "283",
+    "category": "Meva",
+    "reyting": "⭐️⭐️",
+    "description": "Olmada S, V1, V2, R, Ye, A vitaminlari, kaliy, marganes va temir moddalari koʻp miqdorda mavjud. S va V vitaminlari barcha aʼzolarda modda almashinuvini yaxshilaydi. R va Ye darmondorilari organizmni yoshartirib, teri va toʻqimalar holatini tiklaydi. Kaliy moddasi arterial qon bosimini meʼyorlashtirishi, tish emali va suyak toʻqimalarini mustahkamlashi tadqiqotlarda koʻp bora oʻz isbotini topgan"
+  },
+  {
+    "id": 1,
+    "productName": "Nok",
+    "image": "https://zelenyjmir.ru/wp-content/uploads/2017/06/Grusha-27.jpg",
+    "nutrients": "Vitamin A, Temir",
+    "price": "5.00",
+    "organic": true,
+    "buyed": "283",
+    "category": "Meva",
+    "reyting": "⭐️⭐️",
+    "description": "Qadimgi Gretsiyada noklarni «xudolar inoyati» deb atashgan. Bu sersuv mevalar juda foydali bolib, ular quyidagi kasalliklarda juda foydalidir nok ozida fruktozani saqlashi sabab ham uni oshqozon osti bezi kasalliklarida istemol qilish tavsiya qilinadinok ozida kaliy moddasini saqlashi sabab yurakka ham yaxshi tasir otkazadi, yurak ritmini meyorlashtiradi"
+  },
+  {
+    "id": 2,
+    "productName": "Anor",
+    "image": "https://milliycha.uz/wp-content/uploads/2021/09/7-1.jpg",
+    "nutrients": "Vitamin C, Vitamin K",
+    "price": "5.50",
+    "organic": true,
+    "category": "Meva",
+    "reyting": "⭐️⭐️",
+    "buyed": "283",
+    "description": "Yorqin va sersuv meva S, R vitaminlariga boy. Shuningdek uning tarkibida V guruhi vitaminlari V6 va V12 hamda kaliy, kalsiy, fosfor va temir minerallari ham bor. Vitaminlarning bunday birikmasi asab tizimi uchun foydali.Anor tarkibida dezinfeksiya ta'sirini ko‘rsatuvchi moddalar bo‘lib, u ichak buzilishlari, ich ketishiga qarshi kurashishda yordam beradi"
+  },
+  {
+    "id": 3,
+    "productName": "osh",
+    "image": "https://i.ytimg.com/vi/h5yxV6xpbpY/maxresdefault.jpg",
+
+    "nutrients": "Vitamin A, Vitamin K",
+    "price": "3.00",
+    "organic": true,
+    "buyed": "283",
+    "category": "Taom",
+    "reyting": "⭐️⭐️",
+    "description": "Palov o'zbek xalqining eng sevimli taomi hisoblanadi. Har bir oilada haftasiga kamida ikki marta albatta palov pishiriladi. Odamlar xursandchilik kunlarida, to'ylarda va azada ham palovsiz marosim o'tkazmaydi. O'zbekiston ahli uchun palov nafaqat taom, balki haqiqiy san'at asaridir. Chunki har bir viloyatning o'ziga xos palovi bor. Quyida palov haqida qiziqarli faktlarni e'tiboringizga havola etamiz."
+  },
+  {
+    "id": 4,
+    "productName": "Manti (food)",
+    "image": "https://i.pinimg.com/originals/76/d1/dd/76d1dd3dc1e9317ce5c00a50586596c6.jpg",
+    "nutrients": "Vitamin C, Magnesium",
+    "price": "2.00",
+    "buyed": "283",
+    "category": "Taom",
+    "reyting": "⭐️⭐️",
+    "organic": true,
+    "description": "Manti tayyorlash uchun maxsus xamirni qattiqroq qilib qorasiz, zuvala qilib sochiqqa oʻrab 15minutcha tindirganingizdan keyin yana bir bor mushtlab pishitib undan keyin oʻqlov yordamida yupqa qilib yoyasiz. Yoymadan 10x10 sm hajmli jildlar kesasiz. Yoki xamirdan yongʻok, kattaligida zuvalachalar uzib olib, har birini alohida — alohida juva bilan tugarak qilib yoyasiz: qalinligi 2 mm boʻlsin. Har bir jildga ketganicha qiyma solib manti tugasiz. Qiymasini tayyorlash: Yogʻli qoʻy goʻshtidan olib, oʻtkir pichoq bilan chumchuq tili qilib toʻgʻraysiz, yogʻini sal yirikroq, dumba yogʻi boʻlsa 1x1x1 sm kubik qilib, charvi yogʻini esa bodom kattaligida toʻgʻraysiz. Halqa — halqa qilib toʻgʻralgan piyozni taxta ustiga qoʻyib chopib yuborasiz. Shunday qilganda piyoz bir joyda toʻplanib qolmay qiyma ichida bir tekis tarqaladi. Bunga tuz, murch va zira qoʻshib, yaxshilab mijiysiz."
+  },
+  {
+    "id": 5,
+    "productName": "Tandir go'shti",
+    "image": "https://i.pinimg.com/originals/29/40/27/294027a518851e9b1a3485be38b48632.jpg",
+    "nutrients": "Vitamin C, Magnesium",
+    "price": "2.00",
+    "category": "Taom",
+    "reyting": "⭐️⭐️",
+    "buyed": "283",
+    "description": "Qashqadaryo viloyatida eng qadrli va nozik mehmonlar uchun tayyorlanadi. Bayramlarda, to‘y-xashamlarda tansiq taom sifatida dasturxonga tortiladi. Tandir go‘shti  Qashqadaryo viloyatining mashhur taomlaridan hisoblanadi. Bu taom paydo bo‘lishi haqida mahalliy aholi orasida turli afsonalar tarqalgan. Ulardan birida aytilishcha: “Qadimda kunlardan bir kun chaqmoq chaqib, tog‘ archazorlariga o‘t ketadi va u yerdagi hamma hayvonlar kuyib go‘shtga aylangan. O‘sha tog‘dan oqib o‘tuvchi suv sho‘r bo‘lgan. Shuning uchun shu suvdan ichgan tog‘ hayvonlarining  go‘shtlarida tuz miqdori yetarli bo‘lgan. Undan tatib ko‘rgan tog‘ aholisiga pishgan go‘shtning ta'mi yoqib qolgan va o‘sha voqeadan so‘ng tog‘ cho‘ponlari  o‘z podasidagi qo‘y-qo‘zilarning go‘shtini o‘ra qazib pishira boshlashgan."
+  },
+  {
+    "id": 6,
+    "productName": "Ice Cream",
+    "image": "https://img3.goodfon.com/original/1280x720/d/a5/rozhok-morozhenoe-shokolad-4982.jpg",
+    "price": "23.50",
+    "buyed": "283",
+    "category": "Chocolate",
+    "reyting": "⭐️⭐️",
+    "description": "Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from milk or cream and is flavoured with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit such as strawberries or peaches."
+  },
+  {
+    "id": 7,
+    "productName": "Estello",
+    "image": "https://media.istockphoto.com/photos/chocolate-picture-id1305465019",
+    "price": "2.50",
+    "buyed": "453",
+    "category": "Chocolate",
+    "reyting": "⭐️⭐️⭐️⭐️",
+    "description": "Candy, also called sweets (British English) or lollies (Australian English, New Zealand English),[a] is a confection that features sugar as a principal ingredient."
+  },
+  {
+    "id": 8,
+    "productName": "Alpen Gold",
+    "image": "http://klublady.ru/uploads/posts/2022-02/1644854520_30-klublady-ru-p-alpen-gold-molochnii-shokolad-foto-36.png",
+    "price": "5.50",
+    "buyed": "43",
+    "category": "Chocolate",
+    "reyting": "⭐️⭐️⭐️⭐️",
+    "description": "Chocolate is a food product made from roasted and ground cacao pods, that is available as a liquid, solid or paste, on its own or as a flavoring agent in other foods"
+  }
+]
